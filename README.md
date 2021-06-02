@@ -1,1 +1,1 @@
-# Lab 10 Solution
+# Lab 10
